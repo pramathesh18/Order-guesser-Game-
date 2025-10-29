@@ -16,7 +16,7 @@ Built as a foundation for learning **Python development** and later expanding in
 ##  Purpose
 This is a **learning project** to understand Python fundamentals before moving to **Flask web app development**.
 
-## Game Example
+### Game Example
 Enter size (or 0 to quit): 4
 [2, 4, 3, 1] ---> (this is the order generated, will not show to you in the terminal)
 Enter Order: 1 2 3 4
